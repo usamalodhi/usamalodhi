@@ -1,16 +1,19 @@
-### Hi there 👋
+## Hi there 👋, welcome to my GitHub!
 
-<!--
-**usamalodhi/usamalodhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### My Stack
 
-Here are some ideas to get you started:
+HTML | CSS | Javascript | React | Typescript | node.js
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Stats
+
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=usamalodhi)](https://github.com/anuraghazra/github-readme-stats)
+
+### About Me
+
+- 👩 Junior Software Developer 
+- 👩‍🎓 Recent Graduate from a full stack developer academy with Boolean UK
+- 📚 PhD in Comutational Chemistry, Chemistry and BioChemistry BSc (1st Class Hons)
+- 🔍 Looking for roles as a Junior Developer
+- 🌱 I’m currently building an e-commerce website using Next JS and Typescript  
+- 💡 I love learning new things and problem solving
+- 🏐 My hobbies are learning new technologies, building websites and staying active
